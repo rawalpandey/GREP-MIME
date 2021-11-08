@@ -1,2 +1,2 @@
 # GREP-MIME
-GREp &amp; MIME Implementation in C++
+GREP &amp; MIME Implementation in C++
